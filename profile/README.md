@@ -27,7 +27,7 @@ Kami mengembangkan sebuah aplikasi yang memanfaatkan kecerdasan buatan (AI) untu
 
 **Android:** 
 
-0-Care adalah aplikasi yang diciptakan untuk mendeteksi kesehatan mulut dengan melakukan analisis gambar gigi dan lidah. Aplikasi ini dikembangkan dengan menggunakan bahasa pemrograman Kotlin dan untuk model AI menggunakan VGG19. 0-Care memanfaatkan teknologi tensorflow lite untuk melakukan integrasi antar aplikasi dan model yang dikembangkan.
+O-Care adalah aplikasi yang diciptakan untuk mendeteksi kesehatan mulut dengan melakukan analisis gambar gigi dan lidah. Aplikasi ini dikembangkan dengan menggunakan bahasa pemrograman Kotlin dan untuk model AI menggunakan VGG19. 0-Care memanfaatkan teknologi tensorflow lite untuk melakukan integrasi antar aplikasi dan model yang dikembangkan.
 
 **Case :**
 
