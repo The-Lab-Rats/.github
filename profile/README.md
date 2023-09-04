@@ -14,6 +14,9 @@
 * Android Development (Agus Fahmi Aji Pramana)
 * Project Plan & Support (Fauzan Adrivano Setiono)
 
+# PPT
+[Lab Rats Presesntation]([https://github.com/The-Lab-Rats/klasifikasi-oral](https://www.canva.com/design/DAFsu2eabjs/eX2r-GtPLdt__aOUk7dtqg/view?utm_content=DAFsu2eabjs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 # O-Care
 This is our project for AIC (Artificial Intelligence Competition).
 
