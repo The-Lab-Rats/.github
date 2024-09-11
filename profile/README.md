@@ -38,7 +38,7 @@ O-Care adalah aplikasi yang diciptakan untuk mendeteksi kesehatan mulut dengan m
 - [x] Klasifikasi Lidah
 
 ## Screenshots
-<img src="ss/1.jpg" width="256"/>
+<img src="../ss/1.jpg" width="256"/>
 <img src="ss/2.jpg" width="256"/>
 <img src="ss/3.jpg" width="256"/>
 <img src="ss/4.jpg" width="256"/>
